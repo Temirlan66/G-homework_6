@@ -1,0 +1,15 @@
+.container {
+  width: 1450px;
+  height: 140px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: teal;
+  padding: 20px 30px;
+}
+
+h1 {
+  color: rgb(238, 217, 163);
+  font-size: 110px;
+  font-family: cursive;
+}
